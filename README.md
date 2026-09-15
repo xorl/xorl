@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xorl
 - 👀 I’m interested in coding, debugging, drumming.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m a DevSecOps Engineer @ KBIbiopharma
 - 📫 How to reach me xorl [at] xorl.net
 
 <!---
